@@ -13,7 +13,20 @@ Clean UI: A color-coded terminal interface using ANSI escape sequences for a pol
 Dual Language: Full interactive support for both English and Russian languages.
 Smart Search: Suggests common naming conventions (e.g., python-name, pyname) when searching for packages to ensure successful installations.
 
-🚀 Quick Start
+1.Download yay (I said DOWNLOAD!):
+```
+sudo pacman -S --needed git base-devel
+git clone https://aur.archlinux.org/yay.git yaybuild
+cd yaybuild
+makepkg -si
+```
+
+2.Download pip (REQUIRED):
+```
+yay -Sy python-pip
+```
+
+3.Quick Start
 To get started, clone the repository and run the main script:
 
 ```bash
