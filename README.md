@@ -17,6 +17,6 @@ Smart Search: Suggests common naming conventions (e.g., python-name, pyname) whe
 To get started, clone the repository and run the main script:
 
 ```bash
-git clone [https://github.com/Redoforyou/QUICK-INSTALLATION-OF-PYTHON-LIBRARIES.git]([https://github.com/your-username/linux-lib-installer.git](https://github.com/Redoforyou/QUICK-INSTALLATION-OF-PYTHON-LIBRARIES.git))
+git clone https://github.com/Redoforyou/QUICK-INSTALLATION-OF-PYTHON-LIBRARIES.git
 cd QUICK-INSTALLATION-OF-PYTHON-LIBRARIES
 python main.py
